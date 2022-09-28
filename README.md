@@ -19,7 +19,7 @@ npm i -g @nestjs/cli
 4.-Levantar la base de datos
 
 ```
-docker-compuse up -d
+docker-compose up -d
 ```
 
 
